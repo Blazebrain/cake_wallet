@@ -293,4 +293,4 @@ jobs:
             working-directory: /opt/android/cake_wallet
             script: |
                 chmod a+rx integration_test_runner.sh
-                ./integration_test_runner.sh
+                ./integration_test_runner.sh 
